@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="color_recruit_detail_title">#121d36</color>
+    <color name="color_e6ebf4">#E6EBF4</color>
+    <color name="green_1CCF9E">#1CCF9E</color>
+</resources>
